@@ -3,6 +3,9 @@
   font-weight: bold;
 }
 .dygraph-axis-label {
-  font-size: 11px;
+  font-size: 14px;
   color: #7faed2;
+}
+.dygraph-label { 
+color: #dc6f6c;
 }

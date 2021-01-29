@@ -25,7 +25,7 @@ dados <- read_delim("data/32497_.csv",
 
 
 
-### Chart A
+### Irradiância Solar acumulada - $kWhm^{-2}$
 
 ```{r ,eval=TRUE, echo=FALSE}
 #data$datetime <- ymd_hms(data$datetime)
