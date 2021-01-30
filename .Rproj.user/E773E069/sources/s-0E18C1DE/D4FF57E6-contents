@@ -1,0 +1,11 @@
+.dygraph-title {
+  color: #4a82a8;
+  font-weight: bold;
+}
+.dygraph-axis-label {
+  font-size: 14px;
+  color: #7faed2;
+}
+.dygraph-label { 
+color: #dc6f6c;
+}
